@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>Cyklo's Bukkit Plugins</title>
 	<link>http://github.com/cyklo</link>
 	<description>
 		Update feed for Cyklo's Bukkit plugin suite
 	</description>
+        <atom:link href="http://cyklo.github.com/bukkit-plugins.rss" rel="self" type="application/rss+xml" />
 
 	<item>
 		<title>OtherBlocks</title>
@@ -18,14 +19,14 @@
 		<title>QuickBelt</title>
 		<description>0.1.6</description>
 		<guid isPermaLink="false">com.sargant.bukkit.quickbelt</guid>
-		<pubDate>Sat, 19 Mar 2011 17:15:28 GMT</pubDate>
+		<pubDate>19 Mar 2011 17:15:28 GMT</pubDate>
 		<link>https://github.com/downloads/cyklo/Bukkit-QuickBelt/quickbelt_0_1_6.tar.gz</link>
 	</item>
 	<item>
 		<title>PowerArmour</title>
 		<description>0.1.2</description>
 		<guid isPermaLink="false">com.sargant.bukkit.powerarmour</guid>
-		<pubDate>Wed, 16 Mar 2011 23:43:25 GMT</pubDate>
+		<pubDate>16 Mar 2011 23:43:25 GMT</pubDate>
 		<link>https://github.com/downloads/cyklo/Bukkit-PowerArmour/powerarmour_0_1_2.tar.gz</link>
 	</item>
 </channel>

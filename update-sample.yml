@@ -1,0 +1,17 @@
+author: cyklo
+description: "Cyklo's Plugin Suite"
+link: "http://github.com/cyklo"
+
+plugins:
+
+  - name: OtherBlocks
+    version: 0.6.2
+    package: com.sargant.bukkit.otherblocks
+    updated: 2011-03-14
+    download: "https://github.com/downloads/cyklo/Bukkit-OtherBlocks/otherblocks_0_6_2.tar.gz"
+
+  - name: QuickBelt
+    version: 0.1.6
+    package: com.sargant.bukkit.quickbelt
+    updated: 2011-03-16
+    download: "https://github.com/downloads/cyklo/Bukkit-QuickBelt/quickbelt_0_1_6.tar.gz"

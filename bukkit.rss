@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Cyklo's Bukkit Plugins</title>
+	<link>http://github.com/cyklo</link>
+	<description>
+		Update feed for Cyklo's Bukkit plugin suite
+	</description>
+
+	<item>
+		<title>OtherBlocks</title>
+		<description>0.6.2</description>
+		<guid>com.sargant.bukkit.otherblocks</guid>
+		<pubDate>Mon, 14 Mar 2011 19:02:36 +0000</pubDate>
+		<link>https://github.com/downloads/cyklo/Bukkit-OtherBlocks/otherblocks_0_6_2.tar.gz</link>
+	</item>
+</rss>

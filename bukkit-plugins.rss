@@ -10,21 +10,21 @@
 	<item>
 		<title>OtherBlocks</title>
 		<description>0.7</description>
-		<guid>com.sargant.bukkit.otherblocks</guid>
+		<guid isPermaLink="false">com.sargant.bukkit.otherblocks</guid>
 		<pubDate>Mon, 21 Mar 2011 22:47:00 +0000</pubDate>
 		<link>https://github.com/downloads/cyklo/Bukkit-OtherBlocks/otherblocks_0_7.tar.gz</link>
 	</item>
 	<item>
 		<title>QuickBelt</title>
 		<description>0.1.6</description>
-		<guid>com.sargant.bukkit.quickbelt</guid>
+		<guid isPermaLink="false">com.sargant.bukkit.quickbelt</guid>
 		<pubDate>Sat, 19 Mar 2011 17:15:00 +0000</pubDate>
 		<link>https://github.com/downloads/cyklo/Bukkit-QuickBelt/quickbelt_0_1_6.tar.gz</link>
 	</item>
 	<item>
 		<title>PowerArmour</title>
 		<description>0.1.2</description>
-		<guid>com.sargant.bukkit.powerarmour</guid>
+		<guid isPermaLink="false">com.sargant.bukkit.powerarmour</guid>
 		<pubDate>Wed, 16 Mar 2011 23:43:00 +0000</pubDate>
 		<link>https://github.com/downloads/cyklo/Bukkit-PowerArmour/powerarmour_0_1_2.tar.gz</link>
 	</item>

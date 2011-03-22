@@ -1,0 +1,18 @@
+* {
+	display: none;
+}
+
+rss {
+	display: block;
+	background-color: #ddd;
+	font: 12pt "Lucida Grande", Verdana, sans-serif;
+}
+
+channel {
+	display: block;
+	width: 800px;
+	margin: 0 auto;
+	border-color: #666;
+	border-width: 0 3px;
+	border-style: solid;
+}

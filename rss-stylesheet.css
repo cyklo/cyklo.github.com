@@ -5,7 +5,7 @@
 rss {
 	display: block;
 	background-color: #ddd;
-	font: 14pt Verdana, sans-serif;
+	font: 12pt Verdana, sans-serif;
 	color: #666;
 }
 
@@ -20,7 +20,7 @@ channel {
         padding: 20px;
 }
 
-channel title {
+channel > title {
 	display: block;
 	font-size: 24pt;
 	font-weight: bold;
@@ -36,7 +36,7 @@ channel item {
 	margin: 20px 0;
 }
 
-channel item name,
+channel item title,
 channel item description,
 channel item guid,
 channel item link,
@@ -45,7 +45,7 @@ channel item pubDate
         display: block
 }
 
-channel item name:before {
+channel item title:before {
 	font-weight: bold;
 	content:"Name: "
 }

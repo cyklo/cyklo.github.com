@@ -49,3 +49,24 @@ channel item title:before {
 	font-weight: bold;
 	content:"Name: "
 }
+
+channel item description:before {
+	font-weight: bold;
+	content:"Version: "
+}
+
+
+channel item guid:before {
+	font-weight: bold;
+	content:"Package: "
+}
+
+channel item link:before {
+	font-weight: bold;
+	content:"Link: "
+}
+
+channel item pubDate:before {
+	font-weight: bold;
+	content:"Updated: "
+}

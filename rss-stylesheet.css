@@ -11,6 +11,7 @@ rss {
 
 channel {
 	display: block;
+	height: 100%;
 	width: 800px;
 	margin: 0 auto;
 	border-color: #666;

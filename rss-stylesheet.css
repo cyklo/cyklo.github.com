@@ -6,6 +6,7 @@ rss {
 	display: block;
 	background-color: #ddd;
 	font: 14pt Verdana, sans-serif;
+	color: #666;
 }
 
 channel {
@@ -28,4 +29,23 @@ channel title {
 	border: 1px solid #666;
 	border-width: 0 0 1px 0;
 	margin: 0 0 20px 0;
+}
+
+channel item {
+	display: block;
+	margin: 20px 0;
+}
+
+channel item name,
+channel item description,
+channel item guid,
+channel item link,
+channel item pubDate
+{
+        display: block
+}
+
+channel item name:before {
+	font-weight: bold;
+	content:"Name: "
 }

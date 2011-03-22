@@ -5,7 +5,7 @@
 rss {
 	display: block;
 	background-color: #ddd;
-	font: 12pt "Lucida Grande", Verdana, sans-serif;
+	font: 12pt Verdana, sans-serif;
 }
 
 channel {
@@ -16,10 +16,12 @@ channel {
 	border-width: 0 3px;
 	border-style: solid;
 	background-color: #fff;
+        padding: 20px;
 }
 
 channel title {
 	display: block;
 	font-size: 24pt;
 	font-weight: bold;
+        color: #666;
 }

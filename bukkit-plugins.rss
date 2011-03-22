@@ -10,10 +10,10 @@
 
 	<item>
 		<title>OtherBlocks</title>
-		<description>0.7</description>
+		<description>0.7.1</description>
 		<guid isPermaLink="false">com.sargant.bukkit.otherblocks</guid>
-		<pubDate>21 Mar 2011 22:47:41 GMT</pubDate>
-		<link>https://github.com/downloads/cyklo/Bukkit-OtherBlocks/otherblocks_0_7.tar.gz</link>
+		<pubDate>22 Mar 2011 18:41:14 GMT</pubDate>
+		<link>https://github.com/downloads/cyklo/Bukkit-OtherBlocks/otherblocks_0_7_1.tar.gz</link>
 	</item>
 	<item>
 		<title>QuickBelt</title>

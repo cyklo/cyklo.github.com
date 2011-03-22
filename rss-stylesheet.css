@@ -15,4 +15,11 @@ channel {
 	border-color: #666;
 	border-width: 0 3px;
 	border-style: solid;
+	background-color: #fff;
+}
+
+channel title {
+	display: block;
+	font-size: 24pt;
+	font-weight: bold;
 }
